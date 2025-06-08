@@ -1,0 +1,7 @@
+![alt text](https://github.com/arsalfrlh/e-commerce-laravel-flutter/blob/main/1.PNG?raw=true)
+![alt text](https://github.com/arsalfrlh/e-commerce-laravel-flutter/blob/main/2.PNG?raw=true)
+![alt text](https://github.com/arsalfrlh/e-commerce-laravel-flutter/blob/main/3.PNG?raw=true)
+![alt text](https://github.com/arsalfrlh/e-commerce-laravel-flutter/blob/main/4.PNG?raw=true)
+![alt text](https://github.com/arsalfrlh/e-commerce-laravel-flutter/blob/main/6.PNG?raw=true)
+![alt text](https://github.com/arsalfrlh/e-commerce-laravel-flutter/blob/main/7.PNG?raw=true)
+![alt text](https://github.com/arsalfrlh/e-commerce-laravel-flutter/blob/main/8.PNG?raw=true)
